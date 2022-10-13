@@ -29,7 +29,6 @@ namespace APICatalogoMA.Context
                  .HasOne<Categoria>(c => c.Categoria)
                  .WithMany(p => p.Produtos)
                  .HasForeignKey(c => c.CategoriaId);
-
         }
     }
 }
