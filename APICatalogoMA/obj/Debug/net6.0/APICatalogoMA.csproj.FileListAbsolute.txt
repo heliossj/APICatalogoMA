@@ -34,3 +34,10 @@ C:\Users\5575\Desktop\Helio\API.NET\FirstAPI\APICatalogoMA\APICatalogoMA\APICata
 C:\Users\5575\Desktop\Helio\API.NET\FirstAPI\APICatalogoMA\APICatalogoMA\APICatalogoMA\bin\Debug\net6.0\Humanizer.dll
 C:\Users\5575\Desktop\Helio\API.NET\FirstAPI\APICatalogoMA\APICatalogoMA\APICatalogoMA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\5575\Desktop\Helio\API.NET\FirstAPI\APICatalogoMA\APICatalogoMA\APICatalogoMA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\5575\Desktop\Helio\API.NET\FirstAPI\APICatalogoMA\APICatalogoMA\APICatalogoMA\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\5575\Desktop\Helio\API.NET\FirstAPI\APICatalogoMA\APICatalogoMA\APICatalogoMA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\5575\Desktop\Helio\API.NET\FirstAPI\APICatalogoMA\APICatalogoMA\APICatalogoMA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\5575\Desktop\Helio\API.NET\FirstAPI\APICatalogoMA\APICatalogoMA\APICatalogoMA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\5575\Desktop\Helio\API.NET\FirstAPI\APICatalogoMA\APICatalogoMA\APICatalogoMA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\5575\Desktop\Helio\API.NET\FirstAPI\APICatalogoMA\APICatalogoMA\APICatalogoMA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\5575\Desktop\Helio\API.NET\FirstAPI\APICatalogoMA\APICatalogoMA\APICatalogoMA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
